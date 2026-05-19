@@ -1,31 +1,10 @@
 fileFormatVersion: 2
-guid: a60c8a83f8c434e4aa963d293eabe554
+guid: c191db73038a5b141b32cd962100d983
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6851570868998685013
-    second: CollectGraphic_0
-  - first:
-      213: 9041753592608003622
-    second: CollectGraphic_1
-  - first:
-      213: -1956804673155235337
-    second: CollectGraphic_2
-  - first:
-      213: -2225524783049060273
-    second: CollectGraphic_3
-  - first:
-      213: 1537403323229075757
-    second: CollectGraphic_4
-  - first:
-      213: 988044209616114470
-    second: CollectGraphic_5
-  - first:
-      213: 3500360972153868213
-    second: CollectGraphic_6
-  - first:
-      213: -5968685429323291139
-    second: CollectGraphic_7
+      213: -8191739510646017925
+    second: buttons_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -147,67 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CollectGraphic_0
+      name: buttons_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 324
-        width: 512
-        height: 700
+        y: 0
+        width: 6019
+        height: 3386
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bae3be788945ae0a0800000000000000
-      internalID: -6851570868998685013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CollectGraphic_1
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 324
-        width: 512
-        height: 700
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 626130abcf2ca7d70800000000000000
-      internalID: 9041753592608003622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CollectGraphic_2
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 324
-        width: 512
-        height: 700
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f102c1748808d4e0800000000000000
-      internalID: -1956804673155235337
+      spriteID: b7079671158115e80800000000000000
+      internalID: -8191739510646017925
       vertices: []
       indices: 
       edges: []
@@ -216,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 78a60b34729f76544a9d155b703abad2
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -224,13 +159,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":700.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      CollectGraphic_0: -6851570868998685013
-      CollectGraphic_1: 9041753592608003622
-      CollectGraphic_2: -1956804673155235337
+      buttons_0: -8191739510646017925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
