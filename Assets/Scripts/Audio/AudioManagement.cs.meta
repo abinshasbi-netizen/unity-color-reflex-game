@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fae82c8024e48534c9860279455275a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundclip: {instanceID: 0}
+  - jumpclip: {instanceID: 0}
+  - hitclip: {instanceID: 0}
+  - collectclip: {instanceID: 0}
+  - gameoverclip: {instanceID: 0}
+  - bonusclip: {instanceID: 0}
+  - bigdamageclip: {fileID: 8300000, guid: ac4d9ba347d1d6b4aa319b15930fa9aa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
