@@ -102,8 +102,25 @@ The gameplay emphasizes reaction speed, timing, and state-based decision making.
 
 ---
 
+## Screenshots
+
+### Gameplay
+![Gameplay](Assets/Screenshots/gameplay.png)
+
+### Pause Menu
+![Pause Menu](Assets/Screenshots/pause_menu.png)
+
+### Game Over Screen
+![Game Over](Assets/Screenshots/game_over.png)
+
+### Instructions Panel
+![Instructions](Assets/Screenshots/instructions.png)
+
+### Main Menu
+![Main Menu](Assets/Screenshots/main_menu.png)
+
 ## Author
 
 **Abin Georege**
 
-GitHub: https://github.com/abinshabi-netizen
+GitHub: https://github.com/abinshasbi-netizen
